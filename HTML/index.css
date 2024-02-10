@@ -1,0 +1,96 @@
+body {
+    margin: 0px;
+    background: url("C:\\Users\\maota\\Desktop\\毛涛\\background.jpg");
+}
+
+.aa1{
+    height: 60px;
+    background: rgba(0,0,0,0.5);
+     backdrop-filter: blur(5px); 
+    color: #0eec58;
+    font-weight:lighter;
+    padding-left:50px;
+    padding-right:50px;
+
+    display: flex;
+}
+
+.aa2{
+    width: 50px;
+    height: 50px;
+   border-radius:  50%;
+    vertical-align: middle;
+}
+
+.title-button{
+    font-size: 12px;
+    line-height:  100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.a1 {
+    background: #eff4fa;
+    color: #1d5494;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.a1:hover{
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.a2{
+    background: #b0580b;
+    color: #0eec58;
+    padding: 5px;
+    cursor: pointer;
+   transition: 0.3s;
+   border-radius: 7px;
+   user-select: none;
+}
+
+.a2:hover{
+    background: #820ae5;
+}
+
+.a2:active{
+    background: #e50a0a;
+}
+
+.a3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
